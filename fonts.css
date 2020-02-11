@@ -1,22 +1,22 @@
 <style>
   @font-face {
     font-family: 'copernicus';
-    src: url('https://dreamy-gates-53c45f.netlify.com/fonts/copernicus/copernicus-medium.eot?#iefix') format('embedded-opentype'),
-         url('https://dreamy-gates-53c45f.netlify.com/fonts/copernicus/copernicus-medium.woff') format('woff');
+    src: url('/copernicus/copernicus-medium.eot?#iefix') format('embedded-opentype'),
+         url('/copernicus/copernicus-medium.woff') format('woff');
   }
   @font-face {
     font-family: 'modern-era-regular';
-    src: url('https://dreamy-gates-53c45f.netlify.com/fonts/modern-era/modern-era-regular.eot?#iefix') format('embedded-opentype'),
-         url('https://dreamy-gates-53c45f.netlify.com/fonts/modern-era/modern-era-regular.woff') format('woff');
+    src: url('/modern-era/modern-era-regular.eot?#iefix') format('embedded-opentype'),
+         url('/modern-era/modern-era-regular.woff') format('woff');
   }
   @font-face {
     font-family: 'modern-era-medium';
-    src: url('https://dreamy-gates-53c45f.netlify.com/fonts/modern-era/modern-era-medium.eot?#iefix') format('embedded-opentype'),
-         url('https://dreamy-gates-53c45f.netlify.com/fonts/modern-era/modern-era-medium.woff') format('woff');
+    src: url('/modern-era/modern-era-medium.eot?#iefix') format('embedded-opentype'),
+         url('/modern-era/modern-era-medium.woff') format('woff');
   }
   @font-face {
     font-family: 'modern-era-bold';
-    src: url('https://dreamy-gates-53c45f.netlify.com/fonts/modern-era/modern-era-bold.eot?#iefix') format('embedded-opentype'), 
-         url('https://dreamy-gates-53c45f.netlify.com/fonts/modern-era/modern-era-bold.woff') format('woff');
+    src: url('/modern-era/modern-era-bold.eot?#iefix') format('embedded-opentype'),
+         url('/modern-era/modern-era-bold.woff') format('woff');
   }
 </style>
